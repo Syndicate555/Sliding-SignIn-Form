@@ -1,4 +1,4 @@
 # Sliding-SignIn-Form
-A simple Double Slider SignIn form Design
+A simple Double Slider SignIn form Design. (**No functionality)
 
-Try it out -  https://naughty-heisenberg-b5f17d.netlify.com/
+Try it out -  https://demoslider.netlify.com/
